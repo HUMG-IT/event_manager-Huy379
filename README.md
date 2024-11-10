@@ -4,8 +4,8 @@
 - **Môn học:** Phát triển ứng dụng di động đa nền tảng 1
 - **Giảng viên:** GVC.TS. Trần Trung Chuyên
 - **Sinh viên:** Đặng Quốc Huy
-- **Mã sinh viên:** 
-- **Lớp:**
+- **Mã sinh viên:** 2121050900
+- **Lớp:** DCCTCLC66A2
 - **Đề tài:** Xây dựng và kiểm thử ứng dụng Quản lý sự kiện
 
 Chào mừng bạn đến với dự án Quản lý sự kiện! Tệp README này sẽ hướng dẫn bạn hoàn thành bài tập.
